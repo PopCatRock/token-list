@@ -1,15 +1,15 @@
 {
   "name": "LolliPop Labs Default",
-  "timestamp": "2025-03-15T17:16:58.677Z",
+  "timestamp": "2025-06-19T17:16:58.677Z",
   "version": {
     "major": 0,
     "minor": 1,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/refs/heads/master/src/tokens/CoinLogos/0x0FC14d74b66EFa44AccBBe284cCdD356039e59dC.png",
   "keywords": [
-    "nexwap",
+    "popswap",
     "default"
   ],
   "tokens": [
@@ -19,7 +19,7 @@
     "name": "Wrapped Bitrock",
     "decimals": 18,
     "symbol": "WBROCK",
-    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/main/src/tokens/CoinLogos/0x413f0E3A440abA7A15137F4278121450416882d5.png"
+    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/refs/heads/master/src/tokens/CoinLogos/0x413f0E3A440abA7A15137F4278121450416882d5.png"
   },
   {
     "chainId": 7171,
@@ -27,7 +27,7 @@
     "name": "USDBrock",
     "decimals": 6,
     "symbol": "USDB",
-    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/main/src/tokens/CoinLogos/0xd647a6e1f898c39ba594443c19de0872ea935310.png"
+    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/refs/heads/master/src/tokens/CoinLogos/0xd647a6e1f898c39ba594443c19de0872ea935310.png"
   },
   {
     "chainId": 7171,
@@ -35,7 +35,7 @@
     "name": "PopSwap",
     "decimals": 18,
     "symbol": "PSWAP",
-    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/main/src/tokens/CoinLogos/0xd647a6e1f898c39ba594443c19de0872ea935310.png"
+    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/refs/heads/master/src/tokens/CoinLogos/0x0FC14d74b66EFa44AccBBe284cCdD356039e59dC.png"
   },
   {
     "chainId": 7171,
@@ -43,7 +43,7 @@
     "name": "SadCoin",
     "decimals": 18,
     "symbol": "SAD",
-    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/main/src/tokens/CoinLogos/0x9a6DdC9c7d873Bfc20E34ACb1AaE41735A9856d6.png"
+    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/refs/heads/master/src/tokens/CoinLogos/0x9a6DdC9c7d873Bfc20E34ACb1AaE41735A9856d6.png"
   }
   ]
 }
