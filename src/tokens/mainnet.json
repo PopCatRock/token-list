@@ -1,4 +1,18 @@
-[
+{
+  "name": "LolliPop Labs Default",
+  "timestamp": "2025-03-15T17:16:58.677Z",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "nexwap",
+    "default"
+  ],
+  "tokens": [
     {
     "chainId": 7171,
     "address": "0x413f0E3A440abA7A15137F4278121450416882d5",
@@ -25,26 +39,11 @@
   },
   {
     "chainId": 7171,
-    "address": "0xdcE5726e3Bc8E1F574416978279bb0AE62AB3c15",
-    "name": "PopCatRock",
-    "decimals": 18,
-    "symbol": "POPCAT",
-    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/main/src/tokens/CoinLogos/0xdcE5726e3Bc8E1F574416978279bb0AE62AB3c15.png"
-  },
-  {
-    "chainId": 7171,
     "address": "0x9a6DdC9c7d873Bfc20E34ACb1AaE41735A9856d6",
     "name": "SadCoin",
     "decimals": 18,
     "symbol": "SAD",
     "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/main/src/tokens/CoinLogos/0x9a6DdC9c7d873Bfc20E34ACb1AaE41735A9856d6.png"
-  },
-  {
-    "chainId": 7171,
-    "address": "0xed4781de694D99e3800bD4Ec863dcBa9cC9C6C82",
-    "name": "Shiba Rock",
-    "decimals": 18,
-    "symbol": "SHROCK",
-    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/main/src/tokens/CoinLogos/0xed4781de694D99e3800bD4Ec863dcBa9cC9C6C82.png"
   }
-]
+  ]
+}
